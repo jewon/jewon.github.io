@@ -6,10 +6,10 @@ permalink: /about/
 
 
 **Jewon Choi (최재원)**
--------------------
 
  - Kyung-Hee Univ. Undergraduate
  - Major in Geography, Computer Science
+
 
 ----------
 
