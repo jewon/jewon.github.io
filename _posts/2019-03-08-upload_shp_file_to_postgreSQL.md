@@ -126,4 +126,4 @@ pgAdmin에서 잘 import되었나 확인해 보자. 바로 database>(DB이름)>T
 
 ​
 osgeo한국어 지부에서 오픈소스GIS에 대한 많은 정보를 얻고 교류할 수 있다.
-> 참조: [https://www.osgeo.kr/][https://www.osgeo.kr/]
+> 참조: [https://www.osgeo.kr/](https://www.osgeo.kr/)
